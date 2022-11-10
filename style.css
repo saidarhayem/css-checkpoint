@@ -1,0 +1,30 @@
+.nav-item{
+    padding: 10px 40px;
+    margin: 0 50px;
+    color: brown;
+    font-size: 23px;
+    text-decoration: none;
+    background-color: burlywood;
+}
+#title {
+    color: burlywood;
+    text-align: center;
+    text-decoration: underline;
+}
+#Contact {
+    color: burlywood;
+    text-align: center;
+    text-decoration: underline;
+}  
+#Email {
+    color: burlywood;
+    text-align: center;
+    text-decoration: underline;
+}
+#Resume {
+    color: burlywood;
+    text-align: center;
+    text-decoration: underline;
+
+
+
